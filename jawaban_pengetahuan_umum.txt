@@ -1,0 +1,19 @@
+1. 	Tentang Version Control
+	Version control adalah sebuah sistem yang mencatat di setiap perubahan yang ada pada sebuah berkas atau kumpulan berkas, sehingga pada suatu saat kita dapat kembali kepada salah satu versi dari berkas tersebut.
+
+2.	Tentang GIT
+	Git adalah version control system yang digunakan oleh para developer untuk mengembangkan software secara bersama-bersama. Fungsi utama git yaitu mengatur versi dari source code program kita dengan memberi tanda baris dan code mana yang akan ditambah atau diganti.
+
+3.	Framework
+	Framework adalah sebuah software untuk memudahkan para programer dalam membuat sebuah aplikasi web yang di dalamnya dengan berbagai fungsi diantaranya plugin, dan konsep untuk membentuk suatu sistem tertentu agar tersusun dan tersetruktur dengan rapih.
+
+	framework : Laravel, Code Igniter, YII, Symfoni, Bootstrap, JQuery UI.
+	
+4.	Rest API :	sistem yang berjalan di balik layar ketika kita melakukan berbagai hal tersebut, yang memiliki standar arsitektur komunikasi berbasis web.
+	Sekumpulan instruksi program dan protokol yang digunakan untuk membangun aplikasi perangkat lunak. API berperan sebagai pembawa pesan yang menerima permintaan pengguna dan memberitahu sistem apa yang harus dilakukan, lalu memberikan respons yang sesuai untuk permintaan tersebut.
+	
+	SQL	: SQL adalah sebuah bahasa khusus yang digunakan untuk membuat dan mengelola database
+	
+	HTTP : Merupakan istilah yang diberikan pada sebuah protokol dan dipergunakan untuk mengirimkan dokumen dari WWW (World Wide Web). HTTP bisa juga diartikan sebagai protokol jaringan untuk pendistribusian sistem informasi hypermedia secara kolaboratif.
+	
+	UI Framework	: adalah sebuah tampilan antarmuka bagaimana cara program dan user berinteraksi. Aspek yang berkaitan erat dengan interaksi atau komunikasi antara pengguna dan komputer.
